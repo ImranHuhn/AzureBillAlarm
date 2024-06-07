@@ -2,12 +2,6 @@
   <h1 align="center">Getting To Know Microsoft Azure</h1>
 </p>
 
-<h2>Links:</h2>
-
-- [Google Doc](https://docs.google.com/document/d/1mN2FS4Fb8lRj2dibaG4J8qsLY0XLnf_WxuumYpzgJr8/edit?usp=sharing)
-- [Github Repo](https://github.com/ImranHuhn/AzureBillAlarm)
-- [Blog](http://www.techdeficient.com/2024/06/setting-up-billing-alarm.html)
-
 <h2>TLDR: Azure Cost Management</h2>
 
 - <b>Introduction: </b>
